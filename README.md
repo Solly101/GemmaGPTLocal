@@ -18,6 +18,8 @@ git clone https://github.com/Solly101/GemmaGPTLocal.git
 
 ```bash
 pip install openai
+```
+```bash
 pip install flask
 ```
 3. Download and install the [LM Studio desktop app](https://lmstudio.ai/). Download the Google gemma 2B instruct model.
